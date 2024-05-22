@@ -1,0 +1,1 @@
+Using HTML, CSS, and JavaScript to create a weather project is a great opportunity to put your web development knowledge to use while producing something useful and engaging. Users may get real-time weather information by using this project, which can retrieve and present current weather data via an API.
